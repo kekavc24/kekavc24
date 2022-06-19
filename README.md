@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kekavc24
-- 👀 I’m interested in HTML, CSS, JavaScJavascript and Dart.
+- 👀 I’m interested in HTML, CSS, Javascript and Dart.
 - 💞️ Hit me up to collaborate on a project.
 
 <!---
