@@ -3,6 +3,7 @@
 * 🔭 I'm currently working on [Magical Dashboard](https://github.com/kekavc24/magical_dashboard)
 * 🕺🏾 I'm open to collaborate on open source projects or even private ones you need any help with
 * 🗣️ I'm proficient in Javascript, Dart & Flutter and writing HTML & CSS
+* 📫 DM me on Twitter <a href="https://twitter.com/messages/compose?recipient_id=2879585188" target="_blank">here</a> to kickstart our collaboration
 
 
 ### :fire: My Stats :
